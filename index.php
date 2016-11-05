@@ -1,10 +1,10 @@
 <?php
-    echo "hehe,¹þ¹þ£¡";
+    echo "hehe,å“ˆå“ˆï¼";
 ?>
 <?php
 	// $mysqli = new mysqli("localhost:3306","root","root12345");
 	// if($mysqli->connect_error) echo "Mysql Connect Error!";
-	// else echo "mysql Á¬½Ó³É¹¦£¡";
+	// else echo "mysql è¿žæŽ¥æˆåŠŸï¼";
 	// $mysqli->close();
 	// $j = 1;
 ?>
